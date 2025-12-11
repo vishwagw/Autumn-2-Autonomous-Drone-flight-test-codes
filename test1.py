@@ -17,5 +17,4 @@ def arm_and_takeoff(target_altitude):
     
     print("Taking off!")
     vehicle.simple_takeoff(target_altitude)
-    
-    # ... rest of code
+
