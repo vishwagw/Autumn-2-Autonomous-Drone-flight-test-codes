@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# using onboard computers : Rasbpberry pi, Jetson Nano ()
+# Linux-based OS
 """
 Onboard Takeoff and Landing for Raspberry Pi 3
 Optimized for running on drone's companion computer
